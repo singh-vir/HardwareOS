@@ -6,16 +6,14 @@ Official desktop releases and issue tracker.
 
 ## Download
 
-Installers for the latest release:
-
 | Platform | Download |
 | --- | --- |
-| macOS (Apple silicon) | [Download](https://api.hardwareos.ai/v1/desktop/download/macos-arm64) |
-| macOS (Intel) | [Download](https://api.hardwareos.ai/v1/desktop/download/macos-x64) |
-| Windows | [Download](https://api.hardwareos.ai/v1/desktop/download/windows) |
-| Linux | [Download](https://api.hardwareos.ai/v1/desktop/download/linux) |
+| macOS (Apple silicon) | [Download](https://github.com/singh-vir/HardwareOS/releases/latest/download/HardwareOS-macos-arm64.dmg) |
+| macOS (Intel) | [Download](https://github.com/singh-vir/HardwareOS/releases/latest/download/HardwareOS-macos-x64.dmg) |
+| Windows | [Download](https://github.com/singh-vir/HardwareOS/releases/latest/download/HardwareOS-windows-x64.exe) |
+| Linux | [Download](https://github.com/singh-vir/HardwareOS/releases/latest/download/HardwareOS-linux-x64.AppImage) |
 
-Or open the [latest release](https://github.com/singh-vir/HardwareOS/releases/latest) and pick the package for your machine.
+All packages: [latest release](https://github.com/singh-vir/HardwareOS/releases/latest)
 
 macOS builds are signed with Developer ID. If Gatekeeper prompts on first launch, open System Settings → Privacy & Security and allow HardwareOS.
 
